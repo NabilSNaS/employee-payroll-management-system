@@ -1,0 +1,12 @@
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\bin\Debug\LoginWithDifferentUser.exe.config
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\bin\Debug\LoginWithDifferentUser.exe
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\bin\Debug\LoginWithDifferentUser.pdb
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.csprojResolveAssemblyReference.cache
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.Properties.Resources.resources
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.csproj.GenerateResource.Cache
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.exe
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.pdb
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.LoginPage.resources
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.Admin.resources
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.Finance.resources
+G:\URI\LoginWithDifferentUser\LoginWithDifferentUser\obj\Debug\LoginWithDifferentUser.Receiption.resources
